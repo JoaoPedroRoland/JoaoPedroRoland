@@ -7,7 +7,7 @@ Me chamo João Pedro,tenho 17 anos e tenho muitos sonhos.
 - sou competitivo 
 - gosto de fazer academia
 - gosto de dormir
-- amo a minha famimlia
+- amo a minha familia
 
 Dê ima olhada em meu site:
 
